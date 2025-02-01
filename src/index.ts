@@ -1,9 +1,9 @@
 // import classes
-import Truck from "./src/classes/Truck.ts";
-import Car from "./src/classes/Car.ts";
-import Motorbike from "./src/classes/Motorbike.ts";
-import Wheel from "./src/classes/Wheel.ts";
-import Cli from "./src/classes/Cli.ts";
+import Truck from "./classes/Truck.js";
+import Car from "./classes/Car.js";
+import Motorbike from "./classes/Motorbike.js";
+import Wheel from "./classes/Wheel.js";
+import Cli from "./classes/Cli.js";
 
 // create an array of vehicles
 
