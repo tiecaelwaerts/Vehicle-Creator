@@ -14,7 +14,7 @@
 A way to show and display Vehicles and features
 
 ## Installation 
-npm i inquirer, use npm build and start to run
+npm i inquirer, use npm start to run
 
 ## Usage
 use it to store your vehicle data, show the functions of the vehicles
